@@ -357,3 +357,38 @@ form button {
 form button:hover {
   background-color: #0056b3;
 }
+.property-listing {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.property-listing img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.property-listing h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.property-listing a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #fff;
+  background-color: #007bff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.property-listing a:hover {
+  background-color: #0056b3;
+}
+
